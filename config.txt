@@ -1,0 +1,5 @@
+token=OTA5MzA5MDUyMjEzOTM2MTY4.YZCaDA.UPhDCmP8vp5oAfANDnqDZAPZDCg
+prefix=m
+owner=909309052213936168
+stayinchannel=true
+updatealerts=false
